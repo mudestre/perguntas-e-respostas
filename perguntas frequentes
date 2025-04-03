@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="projeto1.css">
+    <title>PROJETO 1</title>
+</head>
+<body>
+    <div class="perguntas-frequentes"> 
+        <h1>Perguntas frequentes</h1>
+            <ul class="faq">
+                <li>
+                    <input type="radio" name="acordeon" id="primeiro">
+                    <label for="primeiro"><span>1</span>Sobre oque se trata esse produto?</label>
+                    <div class="resposta">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non vero impedit. Hic corporis expedita libero consectetur quos sapiente eveniet facilis ex sed recusandae harum eaque ipsum, labore ad repudiandae!</p>
+                    </div>
+                </li>
+                <li>
+                    <input type="radio" name="acordeon" id="segunda">
+                    <label for="segunda"><span>2</span>Sobre oque se trata esse produto?</label>
+                    <div class="resposta">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non vero impedit. Hic corporis expedita libero consectetur quos sapiente eveniet facilis ex sed recusandae harum eaque ipsum, labore ad repudiandae!</p>
+                    </div>
+                </li>
+                <li>
+                    <input type="radio" name="acordeon" id="terceira">
+                    <label for="terceira"><span>3</span>Sobre oque se trata esse produto?</label>
+                    <div class="resposta">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non vero impedit. Hic corporis expedita libero consectetur quos sapiente eveniet facilis ex sed recusandae harum eaque ipsum, labore ad repudiandae!</p>
+                    </div>
+                </li>
+                <li>
+                    <input type="radio" name="acordeon" id="quarta">
+                    <label for="quarta"><span>4</span>Sobre oque se trata esse produto?</label>
+                    <div class="resposta">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non vero impedit. Hic corporis expedita libero consectetur quos sapiente eveniet facilis ex sed recusandae harum eaque ipsum, labore ad repudiandae!</p>
+                    </div>
+                </li>
+                <li>
+                    <input type="radio" name="acordeon" id="quinta">
+                    <label for="quinta"><span>5</span>Sobre oque se trata esse produto?</label>
+                    <div class="resposta">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non vero impedit. Hic corporis expedita libero consectetur quos sapiente eveniet facilis ex sed recusandae harum eaque ipsum, labore ad repudiandae!</p>
+                    </div>
+                </li>
+                <li>
+                    <input type="radio" name="acordeon" id="sexta">
+                    <label for="sexta"><span>6</span>Sobre oque se trata esse produto?</label>
+                    <div class="resposta">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed non vero impedit. Hic corporis expedita libero consectetur quos sapiente eveniet facilis ex sed recusandae harum eaque ipsum, labore ad repudiandae!</p>
+                    </div>
+                </li>
+            </ul>
+    </div>
+</body>
+</html>
